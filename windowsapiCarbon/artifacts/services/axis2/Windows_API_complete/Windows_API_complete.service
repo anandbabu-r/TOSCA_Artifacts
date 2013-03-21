@@ -1,0 +1,6 @@
+#Contains the information about the axis2 service generation information from the eclipse workspace
+#Thu Apr 26 08:43:30 CEST 2012
+Class-name=com.tosca.windowsapi.Windows_API_complete
+Type=FROM_CLASS
+Service-name=Windows_API_complete
+Projects=WindowsAPI

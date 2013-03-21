@@ -1,0 +1,6 @@
+#Contains the information about the axis2 service generation information from the eclipse workspace
+#Tue Mar 27 18:56:45 CEST 2012
+Class-name=com.tosca.windowsapi.ProcessRunner
+Type=FROM_CLASS
+Service-name=ProcessRunner
+Projects=WindowsAPI

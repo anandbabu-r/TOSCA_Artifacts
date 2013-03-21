@@ -1,0 +1,6 @@
+#Contains the information about the axis2 service generation information from the eclipse workspace
+#Thu Apr 12 09:50:24 CEST 2012
+Class-name=com.tosca.iaas.Tomcat_Remote_Admin
+Type=FROM_CLASS
+Service-name=Tomcat_Remote_Admin
+Projects=tomcat_remote

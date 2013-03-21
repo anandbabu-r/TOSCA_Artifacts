@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifact name="Tomcat_Remote_Admin" version="1.0.0" type="service/axis2" serverRole="ApplicationServer">
+    <file>Tomcat_Remote_Admin.service</file>
+</artifact>

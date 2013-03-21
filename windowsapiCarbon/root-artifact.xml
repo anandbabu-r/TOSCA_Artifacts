@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifact name="WindowsAPICarbon" version="1.0.0" type="carbon/application">
+    <dependency artifact="FolderMaker" version="1.0.0" serverRole="ApplicationServer"/>
+    <dependency artifact="FileDownloader_URL" version="1.0.0" serverRole="ApplicationServer"/>
+    <dependency artifact="ProcessRunner" version="1.0.0" serverRole="ApplicationServer"/>
+    <dependency artifact="Windows_API_complete" version="1.0.0" serverRole="ApplicationServer"/>
+</artifact>

@@ -1,0 +1,6 @@
+#Contains the information about the axis2 service generation information from the eclipse workspace
+#Thu Apr 26 09:32:32 CEST 2012
+Class-name=com.tosca.iaas.Tomcat_Windows_Service
+Type=FROM_CLASS
+Service-name=Tomcat_Windows_Service
+Projects=Tomcat_management_commandline

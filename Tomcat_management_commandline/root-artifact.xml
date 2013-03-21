@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifact name="Tomcat_management_commandline_carbon" version="1.0.0" type="carbon/application">
+    <dependency artifact="Tomcat_Windows_Service" version="1.0.0" serverRole="ApplicationServer"/>
+</artifact>

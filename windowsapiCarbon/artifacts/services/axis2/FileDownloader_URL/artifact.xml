@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifact name="FileDownloader_URL" version="1.0.0" type="service/axis2" serverRole="ApplicationServer">
+    <file>FileDownloader_URL.service</file>
+</artifact>

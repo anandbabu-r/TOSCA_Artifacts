@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifact name="Tomcat_Windows_Service" version="1.0.0" type="service/axis2" serverRole="ApplicationServer">
+    <file>Tomcat_Windows_Service.service</file>
+</artifact>

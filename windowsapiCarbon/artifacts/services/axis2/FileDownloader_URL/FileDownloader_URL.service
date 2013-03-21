@@ -1,0 +1,6 @@
+#Contains the information about the axis2 service generation information from the eclipse workspace
+#Wed Mar 21 17:30:43 CET 2012
+Class-name=com.tosca.windowsapi.FileDownloader_URL
+Type=FROM_CLASS
+Service-name=FileDownloader_URL
+Projects=WindowsAPI
