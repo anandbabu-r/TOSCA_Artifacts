@@ -12,3 +12,5 @@ These are implemented as PoC for http://www.tosca-open.org/ (OpenTosca standardi
 Tosca - Topology and Orchestration Specification for Cloud Applications.
 
 These services are implementation artificats that are written as "quick and dirty" prototypes to understand Tosca better and to identify gaps in concepts.
+
+They are developed under the guidance of Mr.Florian Haupt.
