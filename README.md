@@ -13,4 +13,4 @@ Tosca - Topology and Orchestration Specification for Cloud Applications.
 
 These services are implementation artificats that are written as "quick and dirty" prototypes to understand Tosca better and to identify gaps in concepts.
 
-They are developed under the guidance of Mr.Florian Haupt.
+They are developed under the guidance of Mr.Florian Haupt at http://www.iaas.uni-stuttgart.de
